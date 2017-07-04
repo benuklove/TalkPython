@@ -1,0 +1,1353 @@
+Responsive Web Design with HTML5 and CSS3 - Second Edition [eBook]
+
++
+AngularJS by Example [eBook]
+
++
+Mastering Julia [eBook]
+
++
+Clean Data [eBook]
+
++
+Mastering Python Design Patterns [eBook]
+
++
+Mastering Python [eBook]
+
++
+Modular Programming with Python [eBook]
+
++
+Learning LibGDX Game Development- Second Edition [eBook]
+
++
+RESTful Web API Design with Node.js [eBook]
+
++
+Learning Probabilistic Graphical Models in R [eBook]
+
++
+Software Architecture with Python [eBook]
+
++
+Scala Design Patterns [eBook]
+
++
+Mastering Git [eBook]
+
++
+Learning Python for Forensics [eBook]
+
++
+Machine Learning in Java [eBook]
+
++
+Python Geospatial Development - Third Edition [eBook]
+
++
+Practical Internet of Things Security [eBook]
+
++
+Spring Microservices [eBook]
+
++
+Advanced Machine Learning with Python [eBook]
+
++
+Kali Linux 2: Windows Penetration Testing [eBook]
+
++
+Modern Python Cookbook [eBook]
+
++
+TensorFlow Machine Learning Cookbook [eBook]
+
++
+Python GUI Programming Cookbook [eBook]
+
++
+Building a Home Security System with Raspberry Pi [eBook]
+
++
+Effective Python Penetration Testing [eBook]
+
++
+OpenCV By Example [eBook]
+
++
+Building Business Websites with Squarespace 7 [eBook]
+
++
+Blueprints Visual Scripting for Unreal Engine [eBook]
+
++
+Practical Machine Learning [eBook]
+
++
+Learning Python Application Development [eBook]
+
++
+Learning Robotics Using Python [eBook]
+
++
+Raspberry Pi By Example [eBook]
+
++
+TypeScript Design Patterns [eBook]
+
++
+Unity 5.x Shaders and Effects Cookbook [eBook]
+
++
+Practical Linux Security Cookbook [eBook]
+
++
+IPython Interactive Computing and Visualization Cookbook [eBook]
+
++
+Mastering Wireshark [eBook]
+
++
+Learning Linux Binary Analysis [eBook]
+
++
+Practical DevOps [eBook]
+
++
+Tkinter GUI Application Development Blueprints [eBook]
+
++
+PostgreSQL 9 Admin Cookbook [eBook]
+
++
+Learning Object-Oriented Programming [eBook]
+
++
+Practical Digital Forensics [eBook]
+
++
+Raspberry Pi for Secret Agents - Second Edition [eBook]
+
++
+Thinking in HTML[eBook] [eBook]
+
++
+Thinking in CSS [eBook]
+
++
+What You Need To Know About Node.js [eBook]
+
++
+What You Need to Know about Python [eBook]
+
++
+Python 3 Object-oriented Programming - Second Edition [eBook]
+
++
+Learning jQuery - Fourth Edition [eBook]
+
++
+Learning PHP 7 [eBook]
+
++
+Git Best Practices Guide [eBook]
+
++
+Flask By Example [eBook]
+
++
+Procedural Content Generation for C++ Game Development [eBook]
+
++
+Unity 5 Game Optimization [eBook]
+
++
+Learning Reactive Programming with Java 8 [eBook]
+
++
+R Deep Learning Essentials [eBook]
+
++
+Mastering Docker [eBook]
+
++
+OpenCV Computer Vision with Python [eBook]
+
++
+Mastering matplotlib [eBook]
+
++
+WordPress 4.x Complete [eBook]
+
++
+Advanced Penetration Testing for Highly-Secured Environments - Second Edition [eBook]
+
++
+Magento 2 Developer's Guide [eBook]
+
++
+C# 6 and .NET Core 1.0: Modern Cross-Platform Development [eBook]
+
++
+Thinking in JavaScript [eBook]
+
++
+Switching to Angular 2 [eBook]
+
++
+Java Deep Learning Essentials [eBook]
+
++
+Learning Data Mining with Python [eBook]
+
++
+Learning C# by Developing Games with Unity 5.x - Second Edition [eBook]
+
++
+Learning Java Functional Programming [eBook]
+
++
+Raspberry Pi Projects for Kids [eBook]
+
++
+Creative Greenfoot [eBook]
+
++
+OpenCV for Secret Agents [eBook]
+
++
+Mastering Responsive Web Design [eBook]
+
++
+Python Game Programming By Example [eBook]
+
++
+Arduino Development Cookbook [eBook]
+
++
+Learning Raspberry Pi [eBook]
+
++
+Learning Scrapy [eBook]
+
++
+Getting Started Making Video Games [eBook]
+
++
+Docker Cookbook [eBook]
+
++
+Mastering Windows PowerShell Scripting [eBook]
+
++
+Learning TypeScript [eBook]
+
++
+Django By Example [eBook]
+
++
+Hadoop Explained [eBook]
+
++
+RESTful Java Web Services - Second Edition [eBook]
+
++
+Learning Bayesian Models with R [eBook]
+
++
+Building a Recommendation System with R [eBook]
+
++
+Mastering R for Quantitative Finance [eBook]
+
++
+Mastering Social Media Mining with R [eBook]
+
++
+Machine Learning with R - Second Edition [eBook]
+
++
+Building a Game with Unity and Blender [eBook]
+
++
+LaTex Beginner's Guide [eBook]
+
++
+R Graphs Cookbook Second Edition [eBook]
+
++
+D3.js By Example [eBook]
+
++
+Mastering Linux Shell Scripting [eBook]
+
++
+Using CiviCRM [eBook]
+
++
+Unity AI Game Programming - Second Edition [eBook]
+
++
+Statistical Analysis with R [eBook]
+
++
+Learning Python Network Programming [eBook]
+
++
+Machine Learning with Spark [eBook]
+
++
+Drupal 7 Module Development [eBook]
+
++
+Learning pandas [eBook]
+
++
+Python 3 Text Processing with NLTK 3 Cookbook [eBook]
+
++
+Wireshark Essentials [eBook]
+
++
+Getting Started with LLVM Core Libraries [eBook]
+
++
+NHibernate 3.0 Cookbook [eBook]
+
++
+Mastering Object-oriented Python [eBook]
+
++
+Practical Data Science Cookbook [eBook]
+
++
+Learning Ext JS 4 [eBook]
+
++
+MySQL for Python [eBook]
+
++
+Python 3 Web Development Beginner's Guide [eBook]
+
++
+Learning PostgreSQL [eBook]
+
++
+DevOps Automation Cookbook [eBook]
+
++
+Java EE 6 Development with NetBeans 7 [eBook]
+
++
+Learning Penetration Testing with Python [eBook]
+
++
+Test-Driven Java Development [eBook]
+
++
+Java EE 6 with GlassFish 3 Application Server[eBook]
+
++
+Data Analysis with R [eBook]
+
++
+Mastering Embedded Linux Programming [eBook]
+
++
+JavaScript Testing Beginner's Guide [eBook]
+
++
+Learning AWS [eBook]
+
++
+Matplotlib for Python Developers [eBook]
+
++
+Blender 3D 2.49 Incredible Machines
+
++
+Amazon Web Services: Migrating your .NET Enterprise Application [eBook]
+
++
+Mastering AWS Development [eBook]
+
++
+ASP.NET 3.5 CMS Development [eBook]
+
++
+Mastering Predictive Analytics with Python [eBook]
+
++
+Drupal 6 Search Engine Optimization [eBook]
+
++
+Kali Linux Wireless Penetration Testing: Beginner's Guide [eBook]
+
++
+Functional Python Programming [eBook]
+
++
+Learning Docker [eBook]
+
++
+Python Parallel Programming Cookbook [eBook]
+
++
+Neural Network Programming with Java [eBook]
+
++
+Mastering JavaScript High Performance [eBook]
+
++
+Mastering Python for Finance [eBook]
+
++
+Learning C++ by Creating Games with UE4 [eBook]
+
++
+Learning ECMAScript 6 [eBook]
+
++
+Unity 5.x Cookbook [eBook]
+
++
+What You Need to Know about Machine Learning [eBook]
+
++
+Python Machine Learning [eBook]
+
++
+Mastering JavaScript [eBook]
+
++
+Blender 3D by Example [eBook]
+
++
+Rust Essentials [eBook]
+
++
+GitHub Essentials [eBook]
+
++
+Android NDK Game Development Cookbook [eBook]
+
++
+Go Programming Blueprints [eBook]
+
++
+Android Programming for Beginners [eBook]
+
++
+Getting Started with PowerShell [eBook]
+
++
+JasperReports 3.5 for Java Developers [eBook]
+
++
+Blender 2.5 Materials and Textures Cookbook [eBook]
+
++
+MediaWiki Administrators’ Tutorial Guide [ebook]
+
++
+Learning Vaadin 7: Second Edition [eBook]
+
++
+C Programming for Arduino [eBook]
+
++
+Cross-platform UI Development with Xamarin.Forms [eBook]
+
++
+Mastering C# Concurrency [eBook]
+
++
+Multithreading with C# Cookbook - Second Edition [eBook]
+
++
+HTML5 Graphing and Data Visualization Cookbook [eBook]
+
++
+Learning .NET High-performance Programming [eBook]
+
++
+Object-Oriented Programming with PHP5 [eBook]
+
++
+Magento : Beginner's Guide - Second Edition [eBook]
+
++
+Learning jQuery, Third Edition [eBook]
+
++
+Mastering AngularJS Directives [eBook]
+
++
+Learning Web Development with Bootstrap and AngularJS [eBook]
+
++
+Mastering React [eBook]
+
++
+AngularJS UI Development [eBook]
+
++
+React.js Essentials [eBook]
+
++
+AngularJS Web Application Development Cookbook [eBook]
+
++
+Moodle 2.0 E-Learning Course Development [eBook]
+
++
+OpenCV 2 Computer Vision Application Programming Cookbook [eBook]
+
++
+Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook [eBook]
+
++
+Applied Architecture Patterns on the Microsoft Platform (Second Edition) [eBook]
+
++
+Testing and Securing Android Studio Applications [eBook]
+
++
+Boost C++ Application Development Cookbook [eBook]
+
++
+Google SketchUp for Game Design: Beginner's Guide [eBook]
+
++
+Blender 3D Printing Essentials [eBook]
+
++
+Social Media Mining with R [eBook]
+
++
+HBase Essentials [eBook]
+
++
+Unity 4 Game Development Hotshot [eBook]
+
++
+Mockito Essentials [eBook]
+
++
+Mastering ElasticSearch [eBook]
+
++
+3D Printing Blueprints [eBook]
+
++
+Advanced Express Web Application Development [eBook]
+
++
+Nagios Core Administration Cookbook [eBook]
+
++
+Unity Multiplayer Games [eBook]
+
++
+Implementing Splunk: Big Data Reporting and Development for Operational Intelligence [eBook]
+
++
+Learning iOS 8 for Enterprise [eBook]
+
++
+Python Unlocked [eBook]
+
++
+Python for Secret Agents [eBook]
+
++
+Python 3 Object Oriented Programming [eBook]
+
++
+Learning Python Design Patterns [eBook]
+
++
+Expert Python Programming [eBook]
+
++
+Jasmine JavaScript Testing [eBook]
+
++
+Responsive Media in HTML5 [eBook]
+
++
+Blender Cycles: Lighting and Rendering Cookbook [eBook]
+
++
+Managing Windows Servers with Chef [eBook]
+
++
+Ext JS 4 Web Application Development Cookbook [eBook]
+
++
+RabbitMQ Cookbook [eBook]
+
++
+Big Data Analytics with R and Hadoop [eBook]
+
++
+Learning R for Geospatial Analysis [eBook]
+
++
+R Object-oriented Programming [eBook]
+
++
+R Data Visualization Cookbook [eBook]
+
++
+R for Data Science [eBook]
+
++
+Internet of Things with Arduino Blueprints [eBook]
+
++
+Internet of Things with Intel Galileo [eBook]
+
++
+What you need to know about Angular 2 [eBook]
+
++
+Learning Internet of Things [eBook]
+
++
+Augmented Reality for Android Application Development [eBook]
+
++
+Getting Started with Ghost [eBook]
+
++
+Learning SciPy for Numerical and Scientific Computing [eBook]
+
++
+Programming ArcGIS 10.1 with Python Cookbook [eBook]
+
++
+Android Studio Essentials [eBook]
+
++
+Android Game Programming by Example [eBook]
+
++
+Android Wearable Programming [eBook]
+
++
+Mastering Android NDK [eBook]
+
++
+Learning Java by Building Android Games [eBook]
+
++
+Mastering Android Application Development [eBook]
+
++
+Gradle Effective Implementation Guide [eBook]
+
++
+Instant QlikView 11 Application Development [eBook]
+
++
+What You Need to Know about JavaScript [eBook]
+
++
+ASP.NET Web API: Build RESTful web applications and services on the .NET framework [eBook]
+
++
+Raspberry Pi Media Center [eBook]
+
++
+Getting Started with HTML5 WebSocket Programming [eBook]
+
++
+OpenGL Development Cookbook [eBook]
+
++
+Mastering Ext JS [eBook]
+
++
+Implementing Cisco UCS Solutions [eBook]
+
++
+VMware Horizon 6 Desktop Virtualization Solutions [eBook]
+
++
+Clojure High Performance Programming [eBook]
+
++
+Developing RESTful Services with JAX-RS 2.0, WebSockets and JSON [eBook]
+
++
+FL Studio Cookbook [eBook]
+
++
+Blender 2.5 Character Animation Cookbook [eBook]
+
++
+Oracle Solaris 11 Advanced Administration Cookbook [eBook]
+
++
+Spring Security 3.x Cookbook [eBook]
+
++
+.Net Framework 4.5 Expert Programming Cookbook [eBook]
+
++
+PhoneGap for Enterprise [eBook]
+
++
+Moodle Gradebook - Second Edition [eBook]
+
++
+Building Multicopter Video Drones [eBook]
+
++
+Backbone.js Patterns and Best Practices [eBook]
+
++
+StartupPro: How to set up and grow a tech business [eBook]
+
++
+Kali Linux Social Engineering [eBook]
+
++
+wxPython 2.8 Application Development Cookbook [eBook]
+
++
+Xamarin Mobile Application Development for iOS [eBook]
+
++
+Learning NGUI for Unity [eBook]
+
++
+HBase Design Patterns [eBook]
+
++
+Mastering Apache Cassandra [eBook]
+
++
+Linux Mint Essentials [eBook]
+
++
+Node Security [eBook]
+
++
+PySide GUI Application Development [eBook]
+
++
+Mastering Python Regular Expressions [eBook]
+
++
+Storm Real-time Processing Cookbook [eBook]
+
++
+R Graph Essentials [eBook]
+
++
+CentOS 6 Linux Server Cookbook [eBook]
+
++
+Optimizing Hadoop for MapReduce [eBook]
+
++
+Getting Started with Red Hat Enterprise Virtualization [eBook]
+
++
+Learning AndEngine [eBook]
+
++
+Making Big Data Work for Your Business [eBook]
+
++
+Skill Up Report 2016 [eBook]
+
++
+What you need to know about R [eBook]
+
++
+Oracle Database 11gR2 Performance Tuning Cookbook [eBook]
+
++
+Learning NumPy Array [eBook]
+
++
+Learning Metasploit Exploitation and Development [eBook]
+
++
+Persistence in PHP with Doctrine ORM [eBook]
+
++
+GLSL Essentials [eBook]
+
++
+Voice Application Development for Android [eBook]
+
++
+Instant PHP Web Scraping [eBook]
+
++
+Force.com Development Blueprints [eBook]
+
++
+Linux Utilities Cookbook [eBook]
+
++
+Object-Oriented JavaScript - Second Edition [eBook]
+
++
+Learning JavaScript Data Structures and Algorithms [eBook]
+
++
+Node.js Design Patterns [eBook]
+
++
+Functional Programming in JavaScript [eBook]
+
++
+CoreOS Essentials [eBook]
+
++
+Build Your Own PaaS with Docker [eBook]
+
++
+Expert Python Programming - Second Edition [eBook]
+
++
+Orchestrating Docker [eBook]
+
++
+SAP BusinessObjects Reporting Cookbook [eBook]
+
++
+Getting Started with Electronic Projects [eBook]
+
++
+Asynchronous Android [eBook]
+
++
+Learning Unity Physics [eBook]
+
++
+Unity 3D UI Essentials [eBook]
+
++
+Unity 5 for Android Essentials [eBook]
+
++
+Mastering Unity 2D Game Development [eBook]
+
++
+Getting Started with Unity 5 [eBook]
+
++
+Kali Linux Wireless Penetration Testing Essentials [eBook]
+
++
+Penetration Testing with the Bash shell [eBook]
+
++
+Mastering Metasploit [eBook]
+
++
+Kali Linux – Assuring Security by Penetration Testing [eBook]
+
++
+Building Virtual Pentesting Labs for Advanced Penetration Testing [eBook]
+
++
+Kali Linux Cookbook [eBook]
+
++
+Python Penetration Testing Essentials [eBook]
+
++
+What You Need to Know about Docker [eBook]
+
++
+Hyper-V Network Virtualization Cookbook [eBook]
+
++
+Raspberry Pi for Secret Agents [eBook]
+
++
+Learning Python [eBook]
+
++
+Android User Interface Development: Beginner's Guide [eBook]
+
++
+Android Studio Application Development [eBook]
+
++
+Less Web Development Essentials [eBook]
+
++
+OpenStreetMap [eBook]
+
++
+Linux Shell Scripting Cookbook [eBook]
+
++
+.NET 4.5 Parallel Extensions [eBook]
+
++
+Puppet Reporting and Monitoring [eBook]
+
++
+Unity Android Game Development by Example Beginner's Guide [eBook]
+
++
+Hyper-V Security[eBook] [eBook]
+
++
+BeagleBone Robotic Projects [eBook]
+
++
+Getting Started with Laravel 4 [eBook]
+
++
+Apache Maven 3 Cookbook [eBook]
+
++
+Instant Node.js Starter [eBook]
+
++
+Data Manipulation with R [eBook]
+
++
+Python Data Science Essentials [eBook]
+
++
+PostgreSQL 9.0 High Performance [eBook]
+
++
+Python Data Analysis [eBook]
+
++
+Python Data Visualization Cookbook [eBook]
+
++
+Practical Data Analysis [eBook]
+
++
+Hadoop Operations and Cluster Management Cookbook [eBook]
+
++
+Twilio Cookbook: Second Edition [eBook]
+
++
+Mobile Security: How to Secure, Privatize, and Recover Your Devices [eBook]
+
++
+WebGL Game Development [eBook]
+
++
+PhantomJS Cookbook [eBook]
+
++
+Building a Home Security System with BeagleBone [eBook]
+
++
+SketchUp 2014 for Architectural Visualization [eBook]
+
++
+Blender 2.5 HOTSHOT [eBook]
+
++
+Blender 2.6 Cycles: Materials and Textures Cookbook [eBook]
+
++
+Java EE 7 Performance Tuning and Optimization [eBook]
+
++
+R Graph Cookbook [eBook]
+
++
+Salesforce.com Customization Handbook [eBook]
+
++
+Microsoft SQL Server 2012 Integration Services: An Expert Cookbook [eBook]
+
++
+Learning Android Intents [eBook]
+
++
+Mastering Leap Motion [eBook]
+
++
+WebRTC Integrator's Guide [eBook]
+
++
+Spring Security 3.1 [eBook]
+
++
+Mastering Eclipse Plug-in Development [eBook]
+
++
+Implementing Lean Six Sigma in 30 Days [eBook]
+
++
+Learning Big Data with Amazon Elastic MapReduce [eBook]
+
++
+Java 7 Concurrency Cookbook [eBook]
+
++
+Java EE 7 Development with NetBeans 8 [eBook]
+
++
+Natural Language Processing with Java and LingPipe Cookbook [eBook]
+
++
+RESTful Java Web Services [eBook]
+
++
+Learning Libgdx Game Development [eBook]
+
++
+Service Oriented Architecture with Java [eBook]
+
++
+MEAN Web Development [eBook]
+
++
+Learning Single-page Web Application Development [eBook]
+
++
+Web Development with Django Cookbook [eBook]
+
++
+Mastering JavaScript Design Patterns [eBook]
+
++
+WordPress 3 Complete [eBook]
+
++
+Bootstrap Site Blueprints [eBook]
+
++
+Responsive Web Design with HTML5 and CSS3 [eBook]
+
++
+Mastering Grunt [eBook]
+
++
+SQL Server 2014 Development Essentials [eBook]
+
++
+Ruby and MongoDB Web Development Beginner's Guide [eBook]
+
++
+vSphere Design Best Practices [eBook]
+
++
+Learning Play! Framework 2 [eBook]
+
++
+Instant OpenCV Starter [eBook]
+
++
+Google Apps Script for Beginners [eBook]
+
++
+Learning Neo4j [eBook]
+
++
+Laravel Application Development Blueprints [eBook]
+
++
+Java 7 New Features Cookbook [eBook]
+
++
+iOS Development with Xamarin Cookbook [eBook]
+
++
+Oracle Enterprise Manager 12c Administration Cookbook [eBook]
+
++
+Building a BeagleBone Black Super Cluster [eBook]
+
++
+3D Printing with SketchUp [eBook]
+
++
+Android 5 Programming by Example [eBook]
+
++
+Android Security Cookbook [eBook]
+
++
+Android NDK Beginner’s Guide [eBook]
+
++
+Android Native Development Kit Cookbook [eBook]
+
++
+Android 3.0 Application Development Cookbook [eBook]
+
++
+Android Database Programming [eBook]
+
++
+Creating Mobile Apps with Appcelerator Titanium [eBook]
+
++
+Xamarin Essentials [eBook]
+
++
+Appcelerator Titanium Smartphone App Development Cookbook [eBook]
+
++
+PhoneGap Mobile Application Development Cookbook [ebook]
+
++
+PhoneGap 3 Beginner's Guide [eBook]
+
++
+LiveCode Mobile Development Beginner's Guide [eBook]
+
++
+ElasticSearch Cookbook [eBook]
+
++
+Getting Started with SBT for Scala [eBook]
+
++
+PowerPivot for Advanced Reporting and Dashboards [eBook]
+
++
+Instant Minecraft: Pi Edition Coding How-to [eBook]
+
++
+Untangle Network Security [eBook]
+
++
+Redis Applied Design Patterns [eBook]
+
++
+SQL Server 2012 Reporting Services Blueprints [eBook]
+
++
+Building Web Applications with ArcGIS [eBook]
+
++
+Scratch 2.0 Beginner's Guide: Second Edition [eBook]
+
++
+Learning SQL Server Reporting Services 2012 [eBook]
+
++
+SQL Server 2012 with PowerShell V3 Cookbook [eBook]
+
++
+WebRTC Blueprints [eBook]
+
++
+MariaDB Cookbook [eBook]
+
++
+Unity 2D Game Development [eBook]
+
++
+LibGDX Game Development By Example [eBook]
+
++
+HTML5 Games Development by Example: Beginner’s Guide [eBook]
+
++
+Learning Unreal® Engine iOS Game Development [eBook]
+
++
+Unity Game Development Scripting [eBook]
+
++
+The Game Jam Survival Guide [eBook]
+
++
+Unity Game Development Blueprints [eBook]
+
++
+Getting Started with WebRTC [eBook]
+
++
+RabbitMQ Essentials [eBook]
+
++
+Creating Universes with SAP BusinessObjects [eBook]
+
++
+Programming MapReduce with Scalding [eBook]
+
++
+Pig Design Patterns [eBook]
+
++
+Learning iPhone Game Development with Cocos2d 3.0 [eBook]
+
++
+Learning OpenShift [eBook]
+
++
+VMware vSphere 5.x Datacenter Design Cookbook [eBook]
+
++
+Multithreading in C# 5.0 Cookbook [eBook]
+
++
+SOA Made Simple [eBook]
+
++
+Continuous Delivery and DevOps: A Quickstart guide [eBook]
+
++
+Learning Cypher [eBook]
+
++
+Getting Started with Grunt: The JavaScript Task Runner [eBook]
+
++
+Microsoft Exchange Server 2013 High Availability [eBook]
+
++
+Responsive Web Design with AngularJS [eBook]
+
++
+AngularJS Services [eBook]
+
++
+Learning AngularJS for .NET developers [eBook]
+
++
+AngularJS Directives [eBook]
+
++
+AngularJS Essentials [eBook]
+
++
+PhoneGap and AngularJS for Cross-platform Development [eBook]
+
++
+Mastering Web Application Development with AngularJS [eBook]
+
++
+Python Tools for Visual Studio [eBook]
+
++
+Unity Shaders and Effects Cookbook [eBook]
+
++
+Yii Project Blueprints [eBook]
+
++
+PostgreSQL Server Programming [eBook]
+
++
+Highcharts Cookbook [eBook]
+
++
+Mastering Sublime Text [eBook]
+
++
+Instant Data Intensive Apps with Pandas How-to [eBook]
+
++
+Machine Learning with R [eBook]
+
++
+Microsoft Azure Machine Learning [eBook]
+
++
+R Machine Learning Essentials [eBook]
+
++
+Learning scikit-learn: Machine Learning in Python [eBook]
+
++
+Clojure for Machine Learning [eBook]
+
++
+Haskell Data Analysis Cookbook [eBook]
+
++
+Building Machine Learning Systems with Python [eBook]
+
++
+Hadoop Real-World Solutions Cookbook [eBook]
+
++
+Heroku Cloud Application Development [eBook]
+
++
+Android Application Programming with OpenCV [eBook]
+
++
+Heroku Cookbook [eBook]
+
++
+Learning Dart [eBook]
+
++
+Apache Kafka [eBook]
+
++
+Python 2.6 Text Processing: Beginners Guide [eBook]
+
++
+BeagleBone for Secret Agents [eBook]
+
++
+Dart Cookbook [eBook]
+
++
+Learning Anime Studio [eBook]
+
++
+Getting Started with SQL Server 2014 Administration [eBook]
+
++
+Laravel Design Patterns and Best Practices [eBook]
+
++
+Learning PowerCLI [eBook]
+
++
+Web App Testing Using Knockout.JS [eBook]
+
++
+Instant SASS CSS How-to [eBook]
+
++
+Socket.IO Real-time Web Application Development [eBook]
+
++
+Learning Xamarin Studio [eBook]
+
++
+HTML5 and CSS3 Transition, Transformation, and Animation [eBook]
+
++
+Java EE 7 with GlassFish 4 Application Server [eBook]
+
++
+Windows Server 2012 Automation with PowerShell Cookbook [eBook]
+
++
+3D Printing with RepRap Cookbook [eBook]
+
++
+GameMaker Game Programming with GML [eBook]
+
++
+Xamarin Cross-platform Application Development [eBook]
+
++
+VMware Horizon View 6 Desktop Virtualization Cookbook [eBook]
+
++
+Learning ROS for Robotics Programming [eBook]
+
++

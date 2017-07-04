@@ -8,3 +8,7 @@ We can then type, for instance, $('div#location h1').text() to get the item (in 
  - we can actually just use #location instead of adding 'div'.
 To get the current condition, we'll use $('#curCond .wx-value').text()
  - this will give us the text from the class (CSS for class is .) of the id curCond
+
+lolcat
+- Pycharm: control alt l reformats source code to fit code style
+

@@ -45,11 +45,6 @@ def get_html_from_web(zipcode):
     return response.text
 
 def get_weather_from_html(html):
-    # cityCss = 'div#location h1'
-    # weatherConditionCss = 'div#curCond span.wx-value'
-    # weatherTempCss = 'div#curTemp span.wx-data span.wx-value'
-    # weatherScaleCss - 'div#curTemp span.wx-data span.wx-unit'
-
     soup = bs4.BeautifulSoup(html, 'html.parser')
     loc = soup.find(id='location').find('h1').get_text()
     condition = soup.find(id='curCond').find(class_='wx-value').get_text()

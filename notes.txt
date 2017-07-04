@@ -1,0 +1,10 @@
+TalkPythonTraining
+
+from BeautifulSoup
+If website uses jquery, we can test the items we're searching for.
+ - from inpect element (developer console), in the console, type $ and Enter.
+ - - if it doesn't come back as Not Found or None or something, you have jquery.  Yay!
+We can then type, for instance, $('div#location h1').text() to get the item (in h1) of the div id we want.
+ - we can actually just use #location instead of adding 'div'.
+To get the current condition, we'll use $('#curCond .wx-value').text()
+ - this will give us the text from the class (CSS for class is .) of the id curCond

@@ -12,3 +12,9 @@ To get the current condition, we'll use $('#curCond .wx-value').text()
 lolcat
 - Pycharm: control alt l reformats source code to fit code style
 
+Ctrl + d duplicates line
+
+wizard battle
+- UI stuff in attack method are normally factored out if possible, but not in this simple app.
+- OOP
+

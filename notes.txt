@@ -1,5 +1,7 @@
 TalkPythonTraining
 
+[Jumpstart]
+
 from BeautifulSoup
 If website uses jquery, we can test the items we're searching for.
  - from inpect element (developer console), in the console, type $ and Enter.
@@ -21,3 +23,7 @@ wizard battle
 file search
 - "{:,}".format(comma separated number)
 - yield is awesome
+
+real estate
+- list comprehension in brackets -> change to parentheses creates generator expression
+- generator expression chaining as a data "pipeline" (at end of app, only sketched out)

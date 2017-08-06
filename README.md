@@ -2,8 +2,10 @@
 Talk Python Training files
 
 ## Topics covered:
-Installing Python\n
+Installing Python
+
 Python 2 vs 3
+
 Coding for Python 2 AND 3
 PyCharm, Sublime text, and IDEs
 Verify Python environment

@@ -35,7 +35,7 @@ File/folder name management
 Path operations
 OS Independent file operations
 CSV file format
-"__name__" descriptor
+dunder name descriptor
 doc strings
 External packages and libraries
 Python Package Index (PyPI)

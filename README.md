@@ -6,14 +6,14 @@ Installing Python
 
 Python 2 vs 3
 
-Coding for Python 2 AND 3
-PyCharm, Sublime text, and IDEs
-Verify Python environment
-Console input/output
-Basic syntax
-Code blocks
-Strings
-String concatenation
+- Coding for Python 2 AND 3
+- PyCharm, Sublime text, and IDEs
+- Verify Python environment
+- Console input/output
+-Basic syntax
+-Code blocks
+-Strings
+-String concatenation
 String formatting
 String searching
 String parsing

@@ -10,10 +10,10 @@ Python 2 vs 3
 - PyCharm, Sublime text, and IDEs
 - Verify Python environment
 - Console input/output
--Basic syntax
--Code blocks
--Strings
--String concatenation
+-- Basic syntax
+-- Code blocks
+-- Strings
+-- String concatenation
 String formatting
 String searching
 String parsing

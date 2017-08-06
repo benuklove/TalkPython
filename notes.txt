@@ -27,3 +27,8 @@ file search
 real estate
 - list comprehension in brackets -> change to parentheses creates generator expression
 - generator expression chaining as a data "pipeline" (at end of app, only sketched out)
+
+movie search
+- multiple exceptions and exception types; handling
+- except Exception is not *most* base but a good level for catching exceptions above, say Ctrl+C
+- exception order matters (go from most specific to least - or you could miss error details)

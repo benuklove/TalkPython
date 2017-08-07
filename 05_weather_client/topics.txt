@@ -1,0 +1,9 @@
+screen scraping
+http requests
+external packages/PyPI
+pip
+virtual environments
+requests package
+tuples and named tuples
+beautiful soup
+slicing

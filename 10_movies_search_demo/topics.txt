@@ -1,0 +1,5 @@
+error and exception handling
+try/except
+handling errors by type
+raising errors
+validating arguments
